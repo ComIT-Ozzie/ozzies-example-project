@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59e46630a0958ffe7fb567bf8fd140de",
+    "revision": "352bc41330f8959da47ce9867bc2828f",
     "url": "/ozzies-example-project/index.html"
   },
   {
-    "revision": "1fa6b5457f45b128c905",
+    "revision": "3d441fb6860e22ebde88",
     "url": "/ozzies-example-project/static/css/main.e73cfa39.chunk.css"
   },
   {
-    "revision": "24fd062ddf9098c8dac1",
-    "url": "/ozzies-example-project/static/js/2.8d7475e3.chunk.js"
+    "revision": "22390987f1f77f845627",
+    "url": "/ozzies-example-project/static/js/2.ebf907ce.chunk.js"
   },
   {
-    "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/ozzies-example-project/static/js/2.8d7475e3.chunk.js.LICENSE"
+    "revision": "e928fe768baa9832b5bc57eae021f30c",
+    "url": "/ozzies-example-project/static/js/2.ebf907ce.chunk.js.LICENSE"
   },
   {
-    "revision": "1fa6b5457f45b128c905",
-    "url": "/ozzies-example-project/static/js/main.674a2a2c.chunk.js"
+    "revision": "3d441fb6860e22ebde88",
+    "url": "/ozzies-example-project/static/js/main.1085d422.chunk.js"
   },
   {
     "revision": "adbe6c42cb4d896429d0",
