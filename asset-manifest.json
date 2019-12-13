@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ozzies-example-project/static/css/main.e73cfa39.chunk.css",
-    "main.js": "/ozzies-example-project/static/js/main.1085d422.chunk.js",
-    "main.js.map": "/ozzies-example-project/static/js/main.1085d422.chunk.js.map",
+    "main.js": "/ozzies-example-project/static/js/main.bf9ff1aa.chunk.js",
+    "main.js.map": "/ozzies-example-project/static/js/main.bf9ff1aa.chunk.js.map",
     "runtime-main.js": "/ozzies-example-project/static/js/runtime-main.1c7a9206.js",
     "runtime-main.js.map": "/ozzies-example-project/static/js/runtime-main.1c7a9206.js.map",
     "static/js/2.ebf907ce.chunk.js": "/ozzies-example-project/static/js/2.ebf907ce.chunk.js",
     "static/js/2.ebf907ce.chunk.js.map": "/ozzies-example-project/static/js/2.ebf907ce.chunk.js.map",
     "index.html": "/ozzies-example-project/index.html",
-    "precache-manifest.59cf893370e0a38932f9a76f8e53c4e6.js": "/ozzies-example-project/precache-manifest.59cf893370e0a38932f9a76f8e53c4e6.js",
+    "precache-manifest.07b7a6f4b4c83af75a254fa55b524235.js": "/ozzies-example-project/precache-manifest.07b7a6f4b4c83af75a254fa55b524235.js",
     "service-worker.js": "/ozzies-example-project/service-worker.js",
     "static/css/main.e73cfa39.chunk.css.map": "/ozzies-example-project/static/css/main.e73cfa39.chunk.css.map",
     "static/js/2.ebf907ce.chunk.js.LICENSE": "/ozzies-example-project/static/js/2.ebf907ce.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1c7a9206.js",
     "static/js/2.ebf907ce.chunk.js",
     "static/css/main.e73cfa39.chunk.css",
-    "static/js/main.1085d422.chunk.js"
+    "static/js/main.bf9ff1aa.chunk.js"
   ]
 }
