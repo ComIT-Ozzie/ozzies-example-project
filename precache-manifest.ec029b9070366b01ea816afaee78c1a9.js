@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e23071f468cbf32b075140a2f681ef36",
+    "revision": "59e46630a0958ffe7fb567bf8fd140de",
     "url": "/ozzies-example-project/index.html"
   },
   {
-    "revision": "b8e837a5e1aeef0d6719",
-    "url": "/ozzies-example-project/static/css/main.d1b05096.chunk.css"
+    "revision": "1fa6b5457f45b128c905",
+    "url": "/ozzies-example-project/static/css/main.e73cfa39.chunk.css"
   },
   {
     "revision": "24fd062ddf9098c8dac1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ozzies-example-project/static/js/2.8d7475e3.chunk.js.LICENSE"
   },
   {
-    "revision": "b8e837a5e1aeef0d6719",
-    "url": "/ozzies-example-project/static/js/main.4a8395dc.chunk.js"
+    "revision": "1fa6b5457f45b128c905",
+    "url": "/ozzies-example-project/static/js/main.674a2a2c.chunk.js"
   },
   {
     "revision": "adbe6c42cb4d896429d0",

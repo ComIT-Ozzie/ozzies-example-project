@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ozzies-example-project/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ozzies-example-project/static/js/main.4a8395dc.chunk.js",
-    "main.js.map": "/ozzies-example-project/static/js/main.4a8395dc.chunk.js.map",
+    "main.css": "/ozzies-example-project/static/css/main.e73cfa39.chunk.css",
+    "main.js": "/ozzies-example-project/static/js/main.674a2a2c.chunk.js",
+    "main.js.map": "/ozzies-example-project/static/js/main.674a2a2c.chunk.js.map",
     "runtime-main.js": "/ozzies-example-project/static/js/runtime-main.1c7a9206.js",
     "runtime-main.js.map": "/ozzies-example-project/static/js/runtime-main.1c7a9206.js.map",
     "static/js/2.8d7475e3.chunk.js": "/ozzies-example-project/static/js/2.8d7475e3.chunk.js",
     "static/js/2.8d7475e3.chunk.js.map": "/ozzies-example-project/static/js/2.8d7475e3.chunk.js.map",
     "index.html": "/ozzies-example-project/index.html",
-    "precache-manifest.4e91ed729962e5864298c286bcef2631.js": "/ozzies-example-project/precache-manifest.4e91ed729962e5864298c286bcef2631.js",
+    "precache-manifest.ec029b9070366b01ea816afaee78c1a9.js": "/ozzies-example-project/precache-manifest.ec029b9070366b01ea816afaee78c1a9.js",
     "service-worker.js": "/ozzies-example-project/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ozzies-example-project/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.e73cfa39.chunk.css.map": "/ozzies-example-project/static/css/main.e73cfa39.chunk.css.map",
     "static/js/2.8d7475e3.chunk.js.LICENSE": "/ozzies-example-project/static/js/2.8d7475e3.chunk.js.LICENSE",
     "static/media/logo.svg": "/ozzies-example-project/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1c7a9206.js",
     "static/js/2.8d7475e3.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4a8395dc.chunk.js"
+    "static/css/main.e73cfa39.chunk.css",
+    "static/js/main.674a2a2c.chunk.js"
   ]
 }
